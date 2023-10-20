@@ -1,5 +1,8 @@
 # Kabir Snell's Portfolio
 
+---
+---
+
 ## UCSB Data Science Capstone
 **Project Overview:** The goal of this project is to **digitize Inogen’s comprehensive patient database of medical forms**. We are utilizing two distinct implementations of Optical Character Recognition (OCR) tools – a commercial software tool and custom scripting in **Tesseract**, an open-source **Python** package that utilizes Google’s OCR system; and **Keras OCR**, which is developed by the popular machine learning library Keras. Independently of text extraction, additional data manipulation is necessary to render text content in analysis-ready form. Our primary objective for this project is to automate the extraction of key patient information from prescription forms and **render this data in analysis-ready form**. We are using mock patient forms to develop an automated pipeline and aim to provide Inogen with an approach and/or program that can be implemented at scale with real patient records.
 
@@ -16,6 +19,8 @@ _**Tools:**_ R, Python, Excel
 _**Student team:**_ Ankur Malik and Kabir Snell
 
 _**Project Advisors:**_ Trevor Ruiz (UCSB), Paula Sarmiento (Purdue University), Norbert Leinfellner (Inogen Inc.)
+
+---
 
 ## Santa Barbara Airport (SBA) Time Series Analysis Project
 **Project Abstract:** This project presents a **time series analysis** of monthly passenger counts through Santa Barbara Municipal Airport. The data was obtained from the Bureau of Transportation Statistics. Two forecasting models were used: a **Seasonal Autoregressive Integrated Moving Average (SARIMA) model and a Lagged Regression model**.
