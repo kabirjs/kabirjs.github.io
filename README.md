@@ -1,1 +1,7 @@
-# kabirjs.github.io
+# Data Scientist
+
+### Education
+UCI
+
+### Work Experience
+Statistical Research Programmer
