@@ -40,7 +40,7 @@ In this study, both models were fit to the data and their forecasting performanc
 
 <img src="assets/sba_forecast.png" alt="hi" class="inline"/>
 
-<img src="assets/time_series.png" alt="hi" width="200" class="inline"/> <img src="assets/model_diagnostics.png" alt="hi" width="200" class="inline"/> 
+<img src="assets/model_diagnostics.png" alt="hi" class="inline"/> 
 
 </p>
 
@@ -57,7 +57,7 @@ _**Tools:**_ R, Python
 
 <img align=top src="assets/Roc_Auc.png" alt="hi" class="inline"/>
 
-<img src="assets/neural_network.png" alt="hi" width="200" height="400" class="inline"/> <img src="assets/stacked_image.png" alt="hi" width="200" height="400" class="inline"/>
+<img src="assets/neural_network.png" alt="hi" width="225" height="400" class="inline"/> <img src="assets/stacked_image.png" alt="hi" width="225" height="400" class="inline"/>
 
 </p>
 
