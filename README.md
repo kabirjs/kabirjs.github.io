@@ -55,9 +55,9 @@ _**Tools:**_ R, Python
 
 <p align="center">
 
-<img align=top src="assets/Roc_Auc.png" alt="hi"/>
+<img align=top src="assets/Roc_Auc.png" alt="hi" class="inline"/>
 
-<img align=right src="assets/neural_network.png" alt="hi" width="500" height="800"/> <img align=left src="assets/stacked_image.png" alt="hi" width="500" height="800"/>
+<img src="assets/neural_network.png" alt="hi" width="500" height="800" class="inline"/> <img src="assets/stacked_image.png" alt="hi" width="500" height="800" class="inline"/>
 
 </p>
 
