@@ -8,7 +8,7 @@
 
 Overall, our team was able to attain an accuracy of about 80% on handwritten prescription forms. Additionally, we were able to create a dashboard which included forecasts, data visualizations, and automated flagging of the misuse of oxygen concentrators. 
 
-![alt text](http://url/to/img.png)
+![alt text]([http://url/to/img.png](https://github.com/kabirjs/kabirjs.github.io/blob/main/assets/inogen_poster.jpg))
 
 
 _**Technical Skills:**_ Optical Character Recognition, Linear Regression & Forecasting, Excel Dashboarding
