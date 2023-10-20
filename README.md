@@ -8,8 +8,6 @@
 
 Overall, our team was able to attain an accuracy of about 80% on handwritten prescription forms. Additionally, we were able to create a dashboard which included forecasts, data visualizations, and automated flagging of the misuse of oxygen concentrators. 
 <p align="center">
-  
-![Inogen Poster](assets/inogen_poster.jpg)
 
 <img src="assets/inogen_poster.jpg" alt="hi" class="inline"/>
 
@@ -23,6 +21,8 @@ _**Tools:**_ R, Python, Excel
 _**Student team:**_ Ankur Malik and Kabir Snell
 
 _**Project Advisors:**_ Trevor Ruiz (UCSB), Paula Sarmiento (Purdue University), Norbert Leinfellner (Inogen Inc.)
+
+[![Open Poster](https://img.shields.io/badge/View%20Poster-Google%20Slides-blue?logo=googleslides)](https://docs.google.com/presentation/d/1wLV0FocAeXOXR8A73Cxmj2vOCrqNl9mfQdDSulSactE/edit?usp=sharing)
 
 _Code not shared due to medical information privacy_
 
