@@ -35,3 +35,14 @@ In this study, both models were fit to the data and their forecasting performanc
 _**Technical Skills:**_ Seasonal Autoregressive Integrated Moving Average (SARIMA) Model & Forecasting, Time Series Analysis, Lagged Regression Model
 
 _**Tools:**_ R, Python
+
+---
+
+## Music Genre Classification - A Machine Learning Approach
+**Project Overview:** The goal of this project is to answer the question: _Can we predict the genre of a song using the attributes provided by the Spotify API data?_ We will begin with an exploratory data analysis (EDA), followed by building and assessing the metrics of various **machine learning models** in order to discover the best predictive model. This project used a **dataset of over 20,000 songs** and their respective Spotify data. I fit many different machine learning models using both **Python** and **R** in order to find the highest accuracy for music genre classification. The models used were: **decision trees, random forest, xgboost, k-nearest neighbors, and a neural network**. Ultimately the accuracy was very high ~90% for some musical genres and very low for others ~35%. This is due to musical genre overlap such as Rap and Hip-Hop. 
+
+[images]
+
+_**Technical Skills:**_ XGBoost, Random Forest, Neural Network, Keras, Tensorflow
+
+_**Tools:**_ R, Python
