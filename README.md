@@ -36,7 +36,13 @@ The SARIMA model is a widely used method for forecasting time series data that e
 In this study, both models were fit to the data and their forecasting performance was evaluated. The results show that both models were able to accurately forecast passenger counts, with the **SARIMA model performing slightly better**. Further research is needed to determine the optimal model parameters and to evaluate the performance of these models on other datasets. In conclusion, this paper demonstrates the usefulness of both SARIMA and Lagged Regression models for forecasting passenger counts through Santa Barbara Municipal Airport. These models can provide valuable insights for airport management and planning.
 
 
-[insert images]
+<p align="center">
+
+<img src="assets/sba_forecast.png" alt="hi" class="inline"/>
+
+<img src="assets/time_series.png" alt="hi" width="500" class="inline"/> <img src="assets/model_diagnostics.png" alt="hi" width="500" class="inline"/> 
+
+</p>
 
 _**Technical Skills:**_ Seasonal Autoregressive Integrated Moving Average (SARIMA) Model & Forecasting, Time Series Analysis, Lagged Regression Model
 
@@ -47,7 +53,13 @@ _**Tools:**_ R, Python
 ## Music Genre Classification - A Machine Learning Approach
 **Project Overview:** The goal of this project is to answer the question: _Can we predict the genre of a song using the attributes provided by the Spotify API data?_ We will begin with an exploratory data analysis (EDA), followed by building and assessing the metrics of various **machine learning models** in order to discover the best predictive model. This project used a **dataset of over 20,000 songs** and their respective Spotify data. I fit many different machine learning models using both **Python** and **R** in order to find the highest accuracy for music genre classification. The models used were: **decision trees, random forest, xgboost, k-nearest neighbors, and a neural network**. Ultimately the accuracy was very high ~90% for some musical genres and very low for others ~35%. This is due to musical genre overlap such as Rap and Hip-Hop. 
 
-[images]
+<p align="center">
+
+<img align=top src="assets/Roc_Auc.png" alt="hi"/>
+
+<img align=right src="assets/neural_network.png" alt="hi" width="500" height="800"/> <img align=left src="assets/stacked_image.png" alt="hi" width="500" height="800"/>
+
+</p>
 
 _**Technical Skills:**_ XGBoost, Random Forest, Neural Network, Keras, Tensorflow
 
