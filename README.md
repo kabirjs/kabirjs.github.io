@@ -40,7 +40,7 @@ In this study, both models were fit to the data and their forecasting performanc
 
 <img src="assets/sba_forecast.png" alt="hi" class="inline"/>
 
-<img src="assets/time_series.png" alt="hi" width="500" class="inline"/> <img src="assets/model_diagnostics.png" alt="hi" width="500" class="inline"/> 
+<img src="assets/time_series.png" alt="hi" width="200" class="inline"/> <img src="assets/model_diagnostics.png" alt="hi" width="200" class="inline"/> 
 
 </p>
 
