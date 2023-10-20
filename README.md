@@ -8,9 +8,8 @@
 
 Overall, our team was able to attain an accuracy of about 80% on handwritten prescription forms. Additionally, we were able to create a dashboard which included forecasts, data visualizations, and automated flagging of the misuse of oxygen concentrators. 
 
-[insert image]
+![alt text](http://url/to/img.png)
 
-*Code not shown due to medical information privacy*
 
 _**Technical Skills:**_ Optical Character Recognition, Linear Regression & Forecasting, Excel Dashboarding
 
@@ -19,6 +18,8 @@ _**Tools:**_ R, Python, Excel
 _**Student team:**_ Ankur Malik and Kabir Snell
 
 _**Project Advisors:**_ Trevor Ruiz (UCSB), Paula Sarmiento (Purdue University), Norbert Leinfellner (Inogen Inc.)
+
+_Code not shared due to medical information privacy_
 
 ---
 
