@@ -48,6 +48,8 @@ _**Technical Skills:**_ Seasonal Autoregressive Integrated Moving Average (SARIM
 
 _**Tools:**_ R, Python
 
+[![View Report](https://img.shields.io/badge/View%20Paper-_PDF-blue?logo=adobe)](https://github.com/kabirjs/SBA-Time-Series-Analysis-Project/blob/main/FinalReport.pdf) [![View Code](https://img.shields.io/badge/View%20Code-_R-blue?logo=rstudio)](https://github.com/kabirjs/SBA-Time-Series-Analysis-Project/blob/main/FinalReport.Rmd) [![View Repository](https://img.shields.io/badge/View%20Repository-_GitHub-blue?logo=github)](https://github.com/kabirjs/SBA-Time-Series-Analysis-Project)
+
 ---
 
 ## Music Genre Classification - A Machine Learning Approach
@@ -64,3 +66,6 @@ _**Tools:**_ R, Python
 _**Technical Skills:**_ XGBoost, Random Forest, Neural Network, Keras, Tensorflow
 
 _**Tools:**_ R, Python
+
+[![View Code](https://img.shields.io/badge/View%20Code-_R-blue?logo=rstudio)](https://htmlpreview.github.io/?https://github.com/kabirjs/Music-Genre-Classification-Project/blob/main/final_report.html) [![View Repository](https://img.shields.io/badge/View%20Repository-_GitHub-blue?logo=github
+)](https://github.com/kabirjs/Music-Genre-Classification-Project) 
