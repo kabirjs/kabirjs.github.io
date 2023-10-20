@@ -9,7 +9,9 @@
 Overall, our team was able to attain an accuracy of about 80% on handwritten prescription forms. Additionally, we were able to create a dashboard which included forecasts, data visualizations, and automated flagging of the misuse of oxygen concentrators. 
 <p align="center">
   
-![Inogen Poster](/assets/inogen_poster.jpg)
+![Inogen Poster](assets/inogen_poster.jpg)
+
+<img src="assets/inogen_poster.jpg" alt="hi" class="inline"/>
 
 </p>
 
