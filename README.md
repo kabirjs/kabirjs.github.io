@@ -1,4 +1,4 @@
-# Kabir Snell's Portfolio
+# Portfolio
 
 ---
 ---
