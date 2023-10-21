@@ -1,5 +1,13 @@
 title: José Kabir Snell
-#logo:
-description: Master of Data Science Student at UC Irvine, graduating December 2024. Graduated from the UC Santa Barbara in June 2023 with a B.S. in Statistics and Data Science. Passionate about data science and improving my machine learning skills!
+logo: "/assets/1694733928794.jpg?raw=true"
+description: >
+
+  <p align="center">
+  <a href="mailto:kabirsnell@gmail.com">Email</a> |
+  <a href="https://www.linkedin.com/in/kabirsnell/">LinkedIn</a> |
+  <a href="https://github.com/kabirjs">GitHub</a> 
+  </p>
+
+  Master of Data Science Student at UC Irvine, graduating December 2024. Graduated from the UC Santa Barbara in June 2023 with a B.S. in Statistics and Data Science. Passionate about data science and improving my machine learning skills!
 # show_downloads: true
 theme: jekyll-theme-minimal
