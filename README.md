@@ -69,3 +69,6 @@ _**Tools:**_ R, Python
 
 [![View Code](https://img.shields.io/badge/View%20Code-_R-blue?logo=rstudio)](https://htmlpreview.github.io/?https://github.com/kabirjs/Music-Genre-Classification-Project/blob/main/final_report.html) [![View Repository](https://img.shields.io/badge/View%20Repository-_GitHub-blue?logo=github
 )](https://github.com/kabirjs/Music-Genre-Classification-Project) 
+
+
+{% include analytics.html %}
