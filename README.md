@@ -68,6 +68,3 @@ _**Technical Skills:**_ XGBoost, Random Forest, Neural Network, Keras, Tensorflo
 _**Tools:**_ R, Python
 
 [![View Code](https://img.shields.io/badge/GitHub-View_Report-grey?logo=GitHub&labelColor=%23BA0021)](https://htmlpreview.github.io/?https://github.com/kabirjs/Music-Genre-Classification-Project/blob/main/final_report.html) [![View Repository](https://img.shields.io/badge/GitHub-View_Repository-grey?logo=GitHub&labelColor=%23BA0021)](https://github.com/kabirjs/Music-Genre-Classification-Project)
-
-
-{% include analytics.html %}
