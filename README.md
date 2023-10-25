@@ -21,8 +21,9 @@ _**Tools:**_ R, Python, Excel
 _**Student team:**_ Ankur Malik and Kabir Snell
 
 _**Project Advisors:**_ Trevor Ruiz (UCSB), Paula Sarmiento (Purdue University), Norbert Leinfellner (Inogen Inc.)
+https://img.shields.io/badge/GitHub-View_Poster-grey?logo=github&labelColor=%23BA0021
 
-[![Open Poster](https://img.shields.io/badge/View%20Poster-Google%20Slides-blue?logo=googleslides)](https://docs.google.com/presentation/d/1wLV0FocAeXOXR8A73Cxmj2vOCrqNl9mfQdDSulSactE/edit?usp=sharing)
+[![Open Poster](https://img.shields.io/badge/GitHub-View_Poster-grey?logo=github&labelColor=%23BA0021)](https://github.com/kabirjs/kabirjs.github.io/blob/main/assets/inogen_poster.jpg)
 
 _Code not shared due to medical information privacy_
 
@@ -48,7 +49,7 @@ _**Technical Skills:**_ Seasonal Autoregressive Integrated Moving Average (SARIM
 
 _**Tools:**_ R, Python
 
-[![View Report](https://img.shields.io/badge/View%20Paper-_PDF-blue?logo=adobe)](https://github.com/kabirjs/SBA-Time-Series-Analysis-Project/blob/main/FinalReport.pdf) [![View Code](https://img.shields.io/badge/View%20Code-_R-blue?logo=rstudio)](https://github.com/kabirjs/SBA-Time-Series-Analysis-Project/blob/main/FinalReport.Rmd) [![View Repository](https://img.shields.io/badge/View%20Repository-_GitHub-blue?logo=github)](https://github.com/kabirjs/SBA-Time-Series-Analysis-Project)
+[![View Report](https://img.shields.io/badge/PDF-View_Paper-grey?logo=adobe&labelColor=%23BA0021)](https://github.com/kabirjs/SBA-Time-Series-Analysis-Project/blob/main/FinalReport.pdf) [![View Repository](https://img.shields.io/badge/GitHub-View_Repository-grey?logo=github&labelColor=%23BA0021)](https://github.com/kabirjs/SBA-Time-Series-Analysis-Project)
 
 ---
 
@@ -67,8 +68,7 @@ _**Technical Skills:**_ XGBoost, Random Forest, Neural Network, Keras, Tensorflo
 
 _**Tools:**_ R, Python
 
-[![View Code](https://img.shields.io/badge/View%20Code-_R-blue?logo=rstudio)](https://htmlpreview.github.io/?https://github.com/kabirjs/Music-Genre-Classification-Project/blob/main/final_report.html) [![View Repository](https://img.shields.io/badge/View%20Repository-_GitHub-blue?logo=github
-)](https://github.com/kabirjs/Music-Genre-Classification-Project) 
+[![View Code](https://img.shields.io/badge/GitHub-View_Report-grey?logo=GitHub&labelColor=%23BA0021)](https://htmlpreview.github.io/?https://github.com/kabirjs/Music-Genre-Classification-Project/blob/main/final_report.html) [![View Repository](https://img.shields.io/badge/GitHub-View_Repository-grey?logo=GitHub&labelColor=%23BA0021)](https://github.com/kabirjs/Music-Genre-Classification-Project)
 
 
 {% include analytics.html %}
