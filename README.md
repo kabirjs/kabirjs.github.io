@@ -21,7 +21,6 @@ _**Tools:**_ R, Python, Excel
 _**Student team:**_ Ankur Malik and Kabir Snell
 
 _**Project Advisors:**_ Trevor Ruiz (UCSB), Paula Sarmiento (Purdue University), Norbert Leinfellner (Inogen Inc.)
-https://img.shields.io/badge/GitHub-View_Poster-grey?logo=github&labelColor=%23BA0021
 
 [![Open Poster](https://img.shields.io/badge/GitHub-View_Poster-grey?logo=github&labelColor=%23BA0021)](https://github.com/kabirjs/kabirjs.github.io/blob/main/assets/inogen_poster.jpg)
 
