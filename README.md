@@ -57,9 +57,11 @@ _**Tools:**_ R, Python
 
 <p align="center">
 
+<img align=top src="assets/music_genre.png" alt="hi" class="inline"/>
+
 <img align=top src="assets/Roc_Auc.png" alt="hi" class="inline"/>
 
-<img src="assets/neural_network.png" alt="hi" width="225" height="400" class="inline"/> <img src="assets/stacked_image.png" alt="hi" width="225" height="400" class="inline"/>
+<img align=top src="assets/music_genre_preds.png" alt="hi" class="inline"/>
 
 </p>
 
