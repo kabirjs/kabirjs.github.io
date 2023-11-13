@@ -59,9 +59,9 @@ _**Tools:**_ R, Python
 
 <img align=top src="assets/music_genre.png" alt="hi" class="inline"/>
 
-<img align=top src="assets/Roc_Auc.png" alt="hi" class="inline"/>
+<img align=top src="assets/random_forest.png" alt="hi" class="inline"/>
 
-<img align=top src="assets/music_genre_preds.png" alt="hi" class="inline"/>
+<img align=top src="assets/music_genre_preds.PNG" alt="hi" class="inline"/>
 
 </p>
 
