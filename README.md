@@ -24,7 +24,7 @@ _**Student team:**_ Ankur Malik and Kabir Snell
 
 _**Project Advisors:**_ Trevor Ruiz (UCSB), Paula Sarmiento (Purdue University), Norbert Leinfellner (Inogen Inc.)
 
-[![Open Poster](https://img.shields.io/badge/GitHub-View_Poster-grey?logo=github&labelColor=%23BA0021)](https://github.com/kabirjs/kabirjs.github.io/blob/main/assets/inogen_poster.jpg) [![View Report](https://github.com/kabirjs/kabirjs.github.io/blob/main/assets/Data%20Science%20Individual%20Sumamry%20-%20Kabir%20Snell.pdf)
+[![Open Poster](https://img.shields.io/badge/GitHub-View_Poster-grey?logo=github&labelColor=%23BA0021)](https://github.com/kabirjs/kabirjs.github.io/blob/main/assets/inogen_poster.jpg) [![View Report](https://github.com/kabirjs/kabirjs.github.io/blob/main/assets/Data%20Science%20Individual%20Sumamry%20-%20Kabir%20Snell.pdf)]
 
 _Code not shared due to medical information privacy_
 
